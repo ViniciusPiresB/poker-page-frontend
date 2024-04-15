@@ -1,0 +1,21 @@
+
+mat-toolbar {
+  height: 80px;
+  background-color: #282525;
+}
+
+.navbar-title {
+  color: white;
+}
+
+img {
+  margin-left: 10px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+button {
+  margin: 5px;
+}
